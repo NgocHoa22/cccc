@@ -1,0 +1,15 @@
+H:\study winform\tinhtiennuoc\tinhtiennuoc\bin\Debug\tinhtiennuoc.exe.config
+H:\study winform\tinhtiennuoc\tinhtiennuoc\bin\Debug\tinhtiennuoc.exe
+H:\study winform\tinhtiennuoc\tinhtiennuoc\bin\Debug\tinhtiennuoc.pdb
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.csproj.AssemblyReference.cache
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.Form1.resources
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.Properties.Resources.resources
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.thongtinsudung.resources
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.csproj.GenerateResource.cache
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.csproj.CoreCompileInputs.cache
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.exe
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.pdb
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.bill.resources
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.dangnhap.resources
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.qr.resources
+H:\study winform\tinhtiennuoc\tinhtiennuoc\obj\Debug\tinhtiennuoc.billwt.resources
